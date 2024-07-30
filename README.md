@@ -1,4 +1,4 @@
-## Стандартные компоненты
+## Стандартные компоненты 
 
 #### Markdown
 Все возможности с примерами тут https://www.markdownguide.org/basic-syntax/
