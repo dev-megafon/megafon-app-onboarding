@@ -26,7 +26,7 @@
 
 <br /> 
 
-гифка
+![image](retailCRM.gif)
 
 <br />
 
