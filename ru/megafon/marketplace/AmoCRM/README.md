@@ -5,7 +5,15 @@
 ![Без заголовка](https://github.com/user-attachments/assets/22bc4ae7-676d-4cef-8272-38acbea6930b)
 
 **Как подключить интеграцию.** <br />
-1. После выполнения входа в личный кабинет https://admin-app.cp.megafon.ru/ необходимо перейти в раздел «Интеграции». <br />
-![1](https://github.com/user-attachments/assets/d1555cc2-6667-4645-8e16-ce41ca2deb68) <br />
+1. После выполнения входа в личный кабинет https://admin-app.cp.megafon.ru/ необходимо перейти в раздел «Интеграции»:
+![1](https://github.com/user-attachments/assets/d1555cc2-6667-4645-8e16-ce41ca2deb68) 
 2. Выберете интеграцию «amoCRM» в разделе «CRM». ![image](https://github.com/user-attachments/assets/e798ec64-c357-4233-9eb3-dd4365ec910f)
-![2](https://github.com/user-attachments/assets/ccd6f1d1-e31e-44d4-84f3-483d2aa2db19)
+![2](https://github.com/user-attachments/assets/ccd6f1d1-e31e-44d4-84f3-483d2aa2db19) 
+3. Так будет выглядеть место подключения интеграции:
+![4](https://github.com/user-attachments/assets/fbfc8ccc-92fd-4312-8f1a-5061306f5b7d)
+4. Чтобы ее активировать, необходимо нажать кнопку «Подключить интеграцию». В результате, откроется окно:
+   <img width="411" alt="6" src="https://github.com/user-attachments/assets/f1c96900-270a-4fa7-9c1e-3bed61225755">
+Если в выпадающем списке «Выберите аккаунт» в поле «Выберите элемент» нет нужного нам подключаемого портала, то необходимо нажать кнопку «Добавить учетные данные»:
+![7](https://github.com/user-attachments/assets/ae1691b6-c2b6-4ade-a519-8a6f3e747bde)
+Поле «Название» не обязательное для заполнения. Необходимо для отображения в списке аккаунтов и их быстрой идентификации, если вы используете несколько порталов интеграции. В обязательном поле «AmoCRM URL» указывается url подключаемого ресурса, желательно с протоколом, например: https://amo2comagicdev.amocrm.ru
+   <img width="395" alt="8" src="https://github.com/user-attachments/assets/f374439d-9938-4f92-a208-758e857e195a">
