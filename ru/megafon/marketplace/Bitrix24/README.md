@@ -8,7 +8,7 @@
 1. После выполнения входа в личный кабинет https://admin-app.cp.megafon.ru/ необходимо перейти в раздел «Интеграции»: <br />
 ![1](https://github.com/user-attachments/assets/d1555cc2-6667-4645-8e16-ce41ca2deb68) <br />
 2. Выберете интеграцию «Bitrix24» в разделе «CRM».
-![2](https://github.com/user-attachments/assets/ccd6f1d1-e31e-44d4-84f3-483d2aa2db19) <br />
+![379149380-d1555cc2-6667-4645-8e16-ce41ca2deb68](https://github.com/user-attachments/assets/b4518b28-aeb0-478b-a7f5-6bcac9ca795b) <br />
 3. Так будет выглядеть место подключения интеграции: <br />
 ![4](https://github.com/user-attachments/assets/fbfc8ccc-92fd-4312-8f1a-5061306f5b7d) <br />
 4. Чтобы ее активировать, необходимо нажать кнопку «Подключить интеграцию». В результате, откроется окно:
