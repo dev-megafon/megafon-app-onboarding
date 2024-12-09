@@ -10,7 +10,7 @@
 2. Выберете интеграцию «Bitrix24» в разделе «CRM».
 ![379149380-d1555cc2-6667-4645-8e16-ce41ca2deb68](https://github.com/user-attachments/assets/b4518b28-aeb0-478b-a7f5-6bcac9ca795b) <br />
 3. Так будет выглядеть место подключения интеграции: <br />
-![4](https://github.com/user-attachments/assets/fbfc8ccc-92fd-4312-8f1a-5061306f5b7d) <br />
+![379150299-fbfc8ccc-92fd-4312-8f1a-5061306f5b7d](https://github.com/user-attachments/assets/3a6e6f62-6df4-4d45-aa27-918778fb983d) <br />
 4. Чтобы ее активировать, необходимо нажать кнопку «Подключить интеграцию». В результате, откроется окно:
    <img width="411" alt="6" src="https://github.com/user-attachments/assets/f1c96900-270a-4fa7-9c1e-3bed61225755"> <br />
 
